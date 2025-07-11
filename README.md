@@ -22,7 +22,7 @@
 <a href="https://www.hackerrank.com/mayankk499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayankk499" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayankk499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankk499" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mayankch04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayankch04" height="30" width="40" /></a>
-<a href="https://discord.gg/5vmMAE4m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5vmMAE4m" height="30" width="40" /></a>
+<a href="https://discord.gg/mayankk499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5vmMAE4m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
