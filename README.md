@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maynkk499" target="blank"><img src="https://img.shields.io/twitter/follow/maynkk499?logo=twitter&style=for-the-badge" alt="maynkk499" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Backend Dev**
 
 - 💬 Ask me about **Web Dev**
 
