@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankk499&label=Profile%20views&color=0e75b6&style=flat" alt="mayankk499" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/maynkk499" target="blank"><img src="https://img.shields.io/twitter/follow/maynkk499?logo=twitter&style=for-the-badge" alt="maynkk499" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Dev**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **Web Dev**
+- 💬 Ask me about **DATA TECH**
 
 - 📫 How to reach me **mayankch044@gmail.com**
 
